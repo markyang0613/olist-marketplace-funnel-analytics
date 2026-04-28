@@ -12,3 +12,13 @@ Regional Disparity: A 236% variance exists in delivery speed between São Paulo 
 Retention Crisis: Only 3.12% of the customer base are repeat buyers, suggesting that poor logistics performance is a primary driver of customer churn.
 
 Growth Sensitivity: Revenue peaked in Nov 2017 with a 52% MoM increase, highlighting the marketplace's reliance on seasonal promotional events.
+
+
+
+Key Takeaways for Recruiters:
+
+The Problem: High churn and low retention (3.12%) driven by logistics friction.
+
+The Evidence: A direct linear correlation between delivery days and review scores.
+
+The Recommendation: To improve retention, Olist should prioritize regional fulfillment centers in Northern Brazil (where delays are 200% higher) to bring delivery times under the "12-day satisfaction threshold."
