@@ -1,2 +1,2 @@
 # olist-marketplace-funnel-analytics
-Conducted Marketplace Funnel Analysis based on Brazilian E-Commerce public data set collected by Olist.
+Marketplace product analytics project using Olist data: funnel conversion, supply-demand balance, and seller performance insights.
