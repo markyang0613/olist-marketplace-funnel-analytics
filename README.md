@@ -36,6 +36,8 @@ I implemented a **Medallion Architecture** to ensure data integrity and performa
 ### 2. Geographic Logistics Latency
 *(Insert your bar chart of states here)*
 > **Insight:** Northern Brazil requires a decentralized warehouse strategy to combat 20-30 day lead times.
+![Logistics Correlation](images/delivery_correlation.png)
+
 
 ---
 
