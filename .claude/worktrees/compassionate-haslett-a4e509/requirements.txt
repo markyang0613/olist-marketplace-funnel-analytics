@@ -1,0 +1,12 @@
+duckdb
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+statsmodels
+prophet
+scikit-learn
+nbformat
+nbconvert
+jupyter
